@@ -49,7 +49,7 @@
 
 **О структуре проекта:**
 
-* [project-2.ipynb](https://github.com/Wiruto/Skillfactory_project_2/blob/131afd9e4d78feeb8d83158173901448d13a341b/Project-2.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
+* [project-2.ipynb](https://github.com/Wiruto/Skillfactory_project_2/blob/3901bf3492a2d94717cd0a2ebff4cda4017c6890/Project-2.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
 
 
 ## Описание данных
@@ -70,7 +70,7 @@ git clone https://github.com/Wiruto/skillfactory_project_2.git
 ```
 
 ## Использование проекта
-Вся информация о работе представлена в jupyter-ноутбуке [project-2.ipynb](https://github.com/Wiruto/Skillfactory_project_2/blob/131afd9e4d78feeb8d83158173901448d13a341b/Project-2.ipynb).
+Вся информация о работе представлена в jupyter-ноутбуке [project-2.ipynb](https://github.com/Wiruto/Skillfactory_project_2/blob/3901bf3492a2d94717cd0a2ebff4cda4017c6890/Project-2.ipynb).
 
 ## Авторы
 
